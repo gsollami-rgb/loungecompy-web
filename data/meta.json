@@ -1,0 +1,55 @@
+{
+ "updated": "2026-11-16",
+ "source": "Database lounge pilota v2 (Excel, 14/11/2026)",
+ "next_check": "settimanale",
+ "changelog": [
+  {
+   "date": "2026-11-14",
+   "text": "Database esteso a 31 aeroporti Schengen e 96 lounge."
+  },
+  {
+   "date": "2026-11-14",
+   "text": "Pagine partenze ufficiali verificate per tutti i 31 aeroporti."
+  },
+  {
+   "date": "2026-11-15",
+   "text": "NAP Pearl Lounge: il gestore conferma Priority Pass, LoungeKey e DragonPass, €44, 05:00–21:00, area Schengen"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "MXP Monteverdi: Priority Pass da 'Sospeso' a 'Da verificare' (sito PP la elenca, con lavori)"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "BUD Plaza Premium non-Schengen: orari 05:00–23:00 (prima 22:00), permanenza max 2 h"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "CPH Carlsberg Aviator Lounge: chiusura alle 20:30 (prima 20:00)"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "CPH Pearl Lounge: permanenza max 2 h con Priority Pass"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "BER Lounge Tegel: prezzo €36 confermato dal sito BER (i €48 sono della Tempelhof)"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "BER Lounge Tempelhof: prezzo €48 e permanenza max 3 h dal sito BER"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "ALC Sala VIP Costa Blanca: permanenza max 3 h con Priority Pass"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "MAD Sala VIP Plaza Mayor: permanenza max 3 h con Priority Pass"
+  },
+  {
+   "date": "2026-11-16",
+   "text": "VIE VIENNA Lounge e SKY Lounge: Flughafen Wien conferma €59 / €49, fino a 3 h, tutto incluso (docce comprese), orari 04:30–22:00 / 04:30–23:00, menu e servizi"
+  }
+ ]
+}

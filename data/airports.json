@@ -1,0 +1,250 @@
+[
+ {
+  "iata": "FCO",
+  "city": "Roma",
+  "name": "Fiumicino “Leonardo da Vinci”",
+  "country": "IT",
+  "departures": "https://www.adr.it/pax-fco-voli-in-tempo-reale",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "MXP",
+  "city": "Milano",
+  "name": "Malpensa",
+  "country": "IT",
+  "departures": "https://www.milanomalpensa-airport.com/it/voli/partenze",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "BGY",
+  "city": "Bergamo",
+  "name": "Orio al Serio “Il Caravaggio”",
+  "country": "IT",
+  "departures": "https://www.milanbergamoairport.it/it/voli-tempo-reale/",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "NAP",
+  "city": "Napoli",
+  "name": "Capodichino",
+  "country": "IT",
+  "departures": "https://www.aeroportodinapoli.it/it/partenze",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "FRA",
+  "city": "Francoforte",
+  "name": "Frankfurt am Main",
+  "country": "DE",
+  "departures": "https://www.frankfurt-airport.com/en/flights-and-transfer/departures.html",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "MUC",
+  "city": "Monaco di Baviera",
+  "name": "Franz Josef Strauß",
+  "country": "DE",
+  "departures": "https://www.munich-airport.com/departures-260464",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "DUS",
+  "city": "Düsseldorf",
+  "name": "Düsseldorf Airport",
+  "country": "DE",
+  "departures": "https://www.dus.com/en/flights/departures",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "BER",
+  "city": "Berlino",
+  "name": "Brandenburg",
+  "country": "DE",
+  "departures": "https://ber.berlin-airport.de/en/flying/departures-arrivals.html",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "CDG",
+  "city": "Parigi",
+  "name": "Charles de Gaulle",
+  "country": "FR",
+  "departures": "https://www.parisaeroport.fr/en/passengers/flights/information-flights-departures/cdg",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "ORY",
+  "city": "Parigi",
+  "name": "Orly",
+  "country": "FR",
+  "departures": "https://www.parisaeroport.fr/en/passengers/flights/flight-departures/informations-flights-departures",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "AMS",
+  "city": "Amsterdam",
+  "name": "Schiphol",
+  "country": "NL",
+  "departures": "https://www.schiphol.nl/en/departures/",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "BRU",
+  "city": "Bruxelles",
+  "name": "Brussels Airport",
+  "country": "BE",
+  "departures": "https://www.brusselsairport.be/en/passengers",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "MAD",
+  "city": "Madrid",
+  "name": "Adolfo Suárez Madrid-Barajas",
+  "country": "ES",
+  "departures": "https://www.aena.es/es/infovuelos.html?iata=MAD",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "BCN",
+  "city": "Barcellona",
+  "name": "Josep Tarradellas El Prat",
+  "country": "ES",
+  "departures": "https://www.aena.es/es/infovuelos.html?iata=BCN",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "PMI",
+  "city": "Palma di Maiorca",
+  "name": "Son Sant Joan",
+  "country": "ES",
+  "departures": "https://www.aena.es/es/infovuelos.html?iata=PMI",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "AGP",
+  "city": "Malaga",
+  "name": "Costa del Sol",
+  "country": "ES",
+  "departures": "https://www.aena.es/es/infovuelos.html?iata=AGP",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "ALC",
+  "city": "Alicante",
+  "name": "Alicante-Elche Miguel Hernández",
+  "country": "ES",
+  "departures": "https://www.aena.es/es/infovuelos.html?iata=ALC",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "LIS",
+  "city": "Lisbona",
+  "name": "Humberto Delgado",
+  "country": "PT",
+  "departures": "https://www.lisbonairport.pt/en/lis/departures",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "OPO",
+  "city": "Porto",
+  "name": "Francisco Sá Carneiro",
+  "country": "PT",
+  "departures": "https://www.portoairport.pt/en/opo/flights-destinations/find-flights/real-time-departures",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "ZRH",
+  "city": "Zurigo",
+  "name": "Zürich Flughafen",
+  "country": "CH",
+  "departures": "https://www.flughafen-zuerich.ch/en/passengers/fly/flightinformation/departures",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "GVA",
+  "city": "Ginevra",
+  "name": "Genève Aéroport",
+  "country": "CH",
+  "departures": "https://www.gva.ch/en/passengers/travel-preparation/before-your-journey/travel-preparation-and-flight-tracking",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "VIE",
+  "city": "Vienna",
+  "name": "Vienna International",
+  "country": "AT",
+  "departures": "https://viennaairport.com/jart/prj3/va/data/cache/abflug_en.html",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "CPH",
+  "city": "Copenaghen",
+  "name": "Kastrup",
+  "country": "DK",
+  "departures": "https://www.cph.dk/en/flight-information/departures",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "ARN",
+  "city": "Stoccolma",
+  "name": "Arlanda",
+  "country": "SE",
+  "departures": "https://www.swedavia.com/arlanda/departures/",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "OSL",
+  "city": "Oslo",
+  "name": "Gardermoen",
+  "country": "NO",
+  "departures": "https://avinor.no/en/airport/oslo-airport/flight-times/departures/",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "HEL",
+  "city": "Helsinki",
+  "name": "Helsinki-Vantaa",
+  "country": "FI",
+  "departures": "https://www.finavia.fi/en/airports/helsinki-airport/flights",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "ATH",
+  "city": "Atene",
+  "name": "Eleftherios Venizelos",
+  "country": "GR",
+  "departures": "https://m.aia.gr/en/rtfi/",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "BUD",
+  "city": "Budapest",
+  "name": "Ferenc Liszt",
+  "country": "HU",
+  "departures": "https://www.bud.hu/en/flight-and-travel-information/flights/departures",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "PRG",
+  "city": "Praga",
+  "name": "Václav Havel",
+  "country": "CZ",
+  "departures": "https://newfids.prg.aero",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "WAW",
+  "city": "Varsavia",
+  "name": "Chopin",
+  "country": "PL",
+  "departures": "https://lotnisko-chopina.pl/en/departures.html",
+  "departures_checked": "2026-11-14"
+ },
+ {
+  "iata": "OTP",
+  "city": "Bucarest",
+  "name": "Henri Coandă",
+  "country": "RO",
+  "departures": "https://www.bucharestairports.ro/en/flight-schedule/departures",
+  "departures_checked": "2026-11-14"
+ }
+]
