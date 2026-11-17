@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "source": "Database lounge pilota v2 (Excel, 14/11/2026)",
  "next_check": "settimanale",
  "changelog": [
@@ -50,6 +50,18 @@
   {
    "date": "2026-11-16",
    "text": "VIE VIENNA Lounge e SKY Lounge: Flughafen Wien conferma €59 / €49, fino a 3 h, tutto incluso (docce comprese), orari 04:30–22:00 / 04:30–23:00, menu e servizi"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "DUS Rhein Lounge (ex Hugo Junkers): LoungeKey sì, DragonPass no, bambini €21, fino a 3 h, docce chiuse per lavori, nuovo menu, aperta anche a chi vola extra-Schengen"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "DUS Sky Lounge (ex Open Sky): LoungeKey sì, DragonPass no, bambini €21, docce incluse, area bimbi; offerte 2 adulti €69"
+  },
+  {
+   "date": "2026-11-17",
+   "text": "DUS: aggiunte Lufthansa Business Lounge, Lufthansa Senator Lounge ed Emirates Lounge (lounge di compagnia)"
   }
  ]
 }
