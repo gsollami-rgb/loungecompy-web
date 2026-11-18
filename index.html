@@ -955,16 +955,16 @@ function getPos(){return new Promise((ok,ko)=>{if(!navigator.geolocation)return 
 async function contrib(id,k){
   S.contrib[id]=k;
   if(!SESS){renderLounge();return}
-  const l=DB.find(x=>x.id===id),a=AIRPORTS.find(x=>x.iata===l.ap)||{};
-  let verified=false,km=null;
+  const l=DB.find(x=>x.id===id);
+  let lat=null,lon=null;
   toast(t('Controllo che tu sia in aeroporto…'));
-  try{const c=await getPos();if(a.lat!=null){km=distKm(c.latitude,c.longitude,a.lat,a.lon);verified=km<=6}}catch(e){km=null}
-  if(!verified&&!isAdmin()){
-    S.contrib[id]=null;renderLounge();
-    toast(km==null?t('Per fare check-in serve la posizione: attivala e riprova.'):t('Sei a {km} km da {ap}: il check-in si fa in aeroporto.',{km:Math.round(km),ap:a.iata||l.ap}));return;
-  }
-  try{await sb('/rest/v1/checkins',{method:'POST',body:JSON.stringify({lounge_id:id,occupancy:k,geo_verified:verified})});toast(verified?t('Check-in fatto. Grazie!'):t('Check-in di prova registrato (admin).'));S.canRate[id]=true}
-  catch(e){S.contrib[id]=null;toast(e.status===403||e.status===401?t('Hai già fatto check-in qui nelle ultime 2 ore.'):t('Non riesco a salvare, riprova.'))}
+  try{const c=await getPos();lat=c.latitude;lon=c.longitude}catch(e){}
+  if(lat==null&&!isAdmin()){S.contrib[id]=null;renderLounge();toast(t('Per fare check-in serve la posizione: attivala e riprova.'));return}
+  try{
+    const r=await sb('/rest/v1/rpc/do_checkin',{method:'POST',body:JSON.stringify({p_lounge_id:id,p_occupancy:k,p_lat:lat,p_lon:lon})});
+    if(!r.ok){S.contrib[id]=null;renderLounge();toast(r.dup?t('Hai già fatto check-in qui nelle ultime 2 ore.'):t('Sei a {km} km da {ap}: il check-in si fa in aeroporto.',{km:r.km??'?',ap:r.ap||l.ap}));return}
+    toast(r.verified?t('Check-in fatto. Grazie!'):t('Check-in di prova registrato (admin).'));S.canRate[id]=true;
+  }catch(e){S.contrib[id]=null;renderLounge();toast(t('Non riesco a salvare, riprova.'))}
   await loadLive(id);
 }
 // ---------- pannello ----------
