@@ -308,5 +308,65 @@
   "departures_checked": "2026-11-14",
   "lat": 44.5711,
   "lon": 26.085
+ },
+ {
+  "iata": "VCE",
+  "city": "Venezia",
+  "name": "Marco Polo",
+  "country": "IT",
+  "departures": "https://www.veneziaairport.it/en_gb/flights/departures",
+  "departures_checked": "2026-11-18",
+  "lat": 45.5053,
+  "lon": 12.3519
+ },
+ {
+  "iata": "CTA",
+  "city": "Catania",
+  "name": "Fontanarossa “Vincenzo Bellini”",
+  "country": "IT",
+  "departures": "https://www.aeroporto.catania.it/tracking-voli/partenze",
+  "departures_checked": "2026-11-18",
+  "lat": 37.4667,
+  "lon": 15.0639
+ },
+ {
+  "iata": "PMO",
+  "city": "Palermo",
+  "name": "Falcone-Borsellino (Punta Raisi)",
+  "country": "IT",
+  "departures": null,
+  "departures_checked": "2026-11-18",
+  "lat": 38.1819,
+  "lon": 13.0994
+ },
+ {
+  "iata": "BLQ",
+  "city": "Bologna",
+  "name": "Guglielmo Marconi",
+  "country": "IT",
+  "departures": "https://www.bologna-airport.it/en/flights/departing-from-bologna/live-flight-information/?idC=62178",
+  "departures_checked": "2026-11-18",
+  "lat": 44.5354,
+  "lon": 11.2887
+ },
+ {
+  "iata": "LHR",
+  "city": "Londra",
+  "name": "Heathrow",
+  "country": "GB",
+  "departures": "https://www.heathrow.com/departures",
+  "departures_checked": "2026-11-18",
+  "lat": 51.4775,
+  "lon": -0.4614
+ },
+ {
+  "iata": "DUB",
+  "city": "Dublino",
+  "name": "Dublin Airport",
+  "country": "IE",
+  "departures": "https://www.dublinairport.com/flight-information/live-departures",
+  "departures_checked": "2026-11-18",
+  "lat": 53.4214,
+  "lon": -6.27
  }
 ]

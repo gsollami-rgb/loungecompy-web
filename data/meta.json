@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "source": "Database lounge pilota v2 (Excel, 14/11/2026)",
  "next_check": "settimanale",
  "changelog": [
@@ -138,6 +138,30 @@
   {
    "date": "2026-11-17",
    "text": "I prezzi in franchi, corone e altre valute ora compaiono anche sulle schede (prima solo quelli in euro)"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "Aggiunto VCE: 2 lounge"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "Aggiunto CTA: 1 lounge"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "Aggiunto PMO: 2 lounge"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "Aggiunto BLQ: 1 lounge"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "Aggiunto LHR: 10 lounge"
+  },
+  {
+   "date": "2026-11-18",
+   "text": "Aggiunto DUB: 5 lounge"
   }
  ]
 }

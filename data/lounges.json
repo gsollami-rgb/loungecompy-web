@@ -4613,5 +4613,834 @@
    "email": null,
    "phone": "+41 43 815 09 68"
   }
+ },
+ {
+  "id": "vce-1",
+  "ap": "VCE",
+  "name": "Marco Polo Lounge (Marco Polo Club)",
+  "ta": "Terminal unico · secondo piano · airside · Schengen · prima del controllo passaporti extra-Schengen",
+  "area": "both",
+  "side": "airside",
+  "pos": "Secondo piano, dopo i controlli di sicurezza e prima del controllo passaporti per l'area extra-Schengen; si sale con ascensore o scala mobile seguendo le indicazioni (PP: livello 2, area partenze)",
+  "hours": "05:00-22:30 tutti i giorni (sito aeroporto e PP); PP: orari variabili secondo i voli",
+  "acc": {
+   "pp": "Sì",
+   "lk": "Da verificare",
+   "dp": "Da verificare",
+   "amex": "Sì",
+   "diners": "Da verificare"
+  },
+  "price": "n.d.",
+  "stay": "Ingresso consentito fino a 3 ore prima dell'orario di partenza del volo (sito aeroporto e PP)",
+  "food": "Buffet dolce e salato (sito aeroporto); snack salati, piccole porzioni calde e mini dolci (blog PP 2023)",
+  "bar": "Alcolici e vino/prosecco gratuiti con scelta limitata, serviti dal personale al bar (blog PP 2023); PP elenca 'bevande alcoliche'",
+  "beer": "n.d.",
+  "shower": "Sì, con shampoo e bagnoschiuma; asciugamani e accessori gratuiti su richiesta (sito aeroporto)",
+  "other": "Wi-Fi gratuito ad alta velocità; postazioni di lavoro; aree relax; informazioni voli in tempo reale; sale riunioni (PP, a pagamento); aria condizionata; accesso disabili; carta digitale accettata; terrazza esterna con vista pista e laguna",
+  "note": "Il sito dell'aeroporto vende l'ingresso online (voucher QR) ma non pubblica il prezzo nella pagina letta; l'e-shop risultava in manutenzione il 18/11/2026. Gratis bambini <2 anni (<12 per soci Il Milione Club). Il personale può rifiutare temporaneamente l'ingresso a capienza massima. Amex: lounge elencata direttamente nel lounge finder Amex Platinum (pagina US), che rimanda a Priority Pass per gli aggiornamenti. LoungeKey e DragonPass risultano solo da fonte terza non ufficiale (loungereview.com), quindi da verificare.",
+  "srcA": "veneziaairport.it – letto 18/11/2026\nprioritypass.com – letto 18/11/2026\namericanexpress.com – letto 18/11/2026",
+  "srcP": "veneziaairport.it – letto 18/11/2026",
+  "srcS": "veneziaairport.it – letto 18/11/2026\nprioritypass.com – letto 18/11/2026\namericanexpress.com – letto 18/11/2026\nloungereview.com – letto 18/11/2026",
+  "checked": "2026-11-18",
+  "aliases": [
+   "Marco Polo Club",
+   "Lounge Marco Polo",
+   "Marco Polo Club VIP Lounge"
+  ],
+  "operator": "SAVE S.p.A. (aeroporto)",
+  "status": "aperta",
+  "contacts": {
+   "email": "shop@grupposave.com",
+   "phone": null
+  }
+ },
+ {
+  "id": "vce-2",
+  "ap": "VCE",
+  "name": "Aspire Executive Lounge",
+  "ta": "Terminal unico · secondo piano · landside · prima della sicurezza",
+  "area": "na",
+  "side": "landside",
+  "pos": "Secondo piano, prima dei controlli di sicurezza, sopra i banchi check-in 1-56, raggiungibile con ascensore (executivelounges.com); PP: Main Terminal, 2° piano, seguire le indicazioni",
+  "hours": "08:00-20:00 tutti i giorni (PP ed executivelounges.com, estate e inverno)",
+  "acc": {
+   "pp": "Sì",
+   "lk": "Da verificare",
+   "dp": "Da verificare",
+   "amex": "Via Priority Pass",
+   "diners": "Da verificare"
+  },
+  "price": "n.d.",
+  "stay": "Massimo 3 ore (PP ed executivelounges.com); ingresso fino a 3 ore prima della partenza",
+  "food": "Cibo e bevande inclusi (sito aeroporto); buffet freddo (PP); salumi, formaggi regionali e pasticceria fresca (executivelounges.com)",
+  "bar": "n.d.",
+  "beer": "n.d.",
+  "shower": "n.d.",
+  "other": "Fast Track ai controlli di sicurezza incluso nel biglietto d'ingresso (non per voli diretti USA); Wi-Fi veloce; spazi business e sale riunioni prenotabili; prese di ricarica; zona quiet; aria condizionata; accesso disabili; carta digitale accettata; sconto 30% soci Il Milione Club alla reception",
+  "note": "Lounge di circa 330 m² al piano landside. Il sito dell'aeroporto indica accesso gratuito, salvo disponibilità, anche con Mile On Air, High Pass e DreamFolks. Prezzo d'ingresso non pubblicato nelle pagine lette (airport, PP, executivelounges.com: il widget di prenotazione non mostra importi); aspirelounges.com non leggibile. Dress code smart-casual e niente annunci voli (executivelounges.com). Amex: elencata nel lounge finder Amex Platinum US come 'enrollment required', cioè via Priority Pass.",
+  "srcA": "veneziaairport.it – letto 18/11/2026\nprioritypass.com – letto 18/11/2026\namericanexpress.com – letto 18/11/2026",
+  "srcP": "veneziaairport.it – letto 18/11/2026\nexecutivelounges.com – letto 18/11/2026",
+  "srcS": "veneziaairport.it – letto 18/11/2026\nprioritypass.com – letto 18/11/2026\nexecutivelounges.com – letto 18/11/2026",
+  "checked": "2026-11-18",
+  "aliases": [
+   "Aspire Lounge Venice",
+   "Executive Lounge"
+  ],
+  "operator": "Aspire Executive Lounges",
+  "status": "aperta",
+  "contacts": {
+   "email": null,
+   "phone": null
+  }
+ },
+ {
+  "id": "cta-1",
+  "ap": "CTA",
+  "name": "VIP Lounge \"Angelo D'Arrigo\"",
+  "ta": "Terminal A · 3° piano · airside · Schengen (fonte secondaria)",
+  "area": "schengen",
+  "side": "airside",
+  "pos": "Terminal A, zona partenze dopo i controlli di sicurezza, 3° piano, vicino ai gate 5 e 6",
+  "hours": "05:00-23:00 tutti i giorni (Priority Pass)",
+  "acc": {
+   "pp": "Sì",
+   "lk": "Da verificare",
+   "dp": "Da verificare",
+   "amex": "Via Priority Pass",
+   "diners": "Da verificare"
+  },
+  "price": "€45 adulto · €35 bambini 3-12 anni (eshop SAC, solo voli in partenza dal Terminal A)",
+  "stay": "n.d. (pass LoungePair: 4 ore)",
+  "food": "Buffet con snack e bevande (SAC, Carta dei Servizi 2026); recensioni: panini freddi e patatine, caldo n.d.",
+  "bar": "Caffè espresso; vino rosso/bianco/spumante dell'Etna e birra (recensione 2025); analcolici",
+  "beer": "Sì (in frigo, spina n.d.)",
+  "shower": "n.d.",
+  "other": "Oltre 400 mq e circa 200 posti dopo il rinnovo (SAC); Wi-Fi ad alta velocità, postazioni di lavoro, sale conferenze, informazioni voli, aria condizionata, accesso disabili, area giochi bambini (LoungePair), vista pista; pagamento con carta direttamente in lounge; prenotazione anticipata su app Priority Pass",
+  "note": "Rinnovata e ampliata (inaugurazione aprile/maggio 2025), ex Bellini VIP Lounge / VIP Lounge SAC. Premiata ai Priority Pass Excellence Awards 2026 (One to Watch, Regional Winner EMEA). Priority Pass elenca anche un Fast Track (Main Terminal) come esperienza separata. Il pass acquistato sull'eshop SAC vale solo per voli in partenza dal Terminal A. Sito aeroporto.catania.it renderizzato in JS: le pagine lounge non erano leggibili, prezzi presi dall'eshop ufficiale. LoungeKey/DragonPass/Diners: nessuna pagina letta.",
+  "srcA": "prioritypass.com – letto 18/11/2026\neshop.aeroporto.catania.it – letto 18/11/2026\ncms.aeroporto.catania.it – letto 18/11/2026\nloungereview.com – letto 18/11/2026",
+  "srcP": "eshop.aeroporto.catania.it – letto 18/11/2026",
+  "srcS": "prioritypass.com – letto 18/11/2026\ncms.aeroporto.catania.it – letto 18/11/2026\nloungepair.com – letto 18/11/2026\ntheairportloungebro.com – letto 18/11/2026\nloungereview.com – letto 18/11/2026",
+  "checked": "2026-11-18",
+  "aliases": [
+   "VIP Lounge SAC",
+   "SAC VIP Lounge Angelo D'Arrigo",
+   "Bellini VIP Lounge",
+   "Sala Vip Vincenzo Bellini",
+   "VIP Lounge - TA"
+  ],
+  "operator": "SAC (aeroporto)",
+  "status": "aperta",
+  "contacts": {
+   "email": "customercare@aeroporto.catania.it",
+   "phone": "+39 095 7239111"
+  }
+ },
+ {
+  "id": "pmo-1",
+  "ap": "PMO",
+  "name": "Prima Vista Lounge",
+  "ta": "Terminal unico · 3° piano · airside · dopo i controlli di sicurezza",
+  "area": "na",
+  "side": "airside",
+  "pos": "Terminal passeggeri, terzo piano, area airside dopo i controlli di sicurezza; PP: 'la lounge si trova sulla destra' (DragonPass: 'sulla sinistra'). Vista mare/pista. Zona Schengen/extra-Schengen non indicata dalle fonti (PP cita 'dopo il controllo passaporti').",
+  "hours": "05:00-22:00 tutti i giorni (PP); DragonPass 05:30-19:00; rivenditore LoungePair: lun-gio 05:30-20:30, ven-dom 05:30-21:30 – orari discordanti, da verificare",
+  "acc": {
+   "pp": "Sì",
+   "lk": "Da verificare",
+   "dp": "Sì",
+   "amex": "Via Priority Pass",
+   "diners": "Da verificare"
+  },
+  "price": "n.d.",
+  "stay": "Massimo 3 ore; ingresso consentito nelle 3 ore precedenti la partenza (PP)",
+  "food": "Bar e area self-service con cucina per preparazione cibi caldi e freddi, ispirazione siciliana (Italiavola); snack, frutta, opzioni vegetariane, cibo caldo e freddo (DragonPass)",
+  "bar": "Bevande alcoliche standard incluse; brand premium a pagamento (PP)",
+  "beer": "n.d.",
+  "shower": "Sì, una doccia per i passeggeri (Italiavola 09/2026); importo n.d.",
+  "other": "400 m²; 10 postazioni di lavoro, 32 sedute relax, 4 postazioni panoramiche vista mare, 24 posti bar/self-service; cabina telefonica; prese di ricarica alle sedute; bagni accessibili; Wi-Fi e monitor voli (DragonPass); accesso disabili; carta digitale accettata (PP); bambini sotto i 3 anni gratis (DragonPass)",
+  "note": "Aperta il 23/09/2026 (inaugurazione istituzionale 27/10/2026, regione.sicilia.it), realizzata da Aviapartner Handling. Sostituisce la lounge temporanea Prima Vista landside al 2° piano (06/2025, theflightclub.it) e la storica Sala VIP GESAP. Prezzo ingresso non pubblicato da gestore/aeroporto; il rivenditore LoungePair vende un pass 3 h a 28 CHF (≈ 31 EUR) con pass richiesto dai 2 anni (letto 18/11/2026, non confermato dal gestore). Pagina ospiti PP non leggibile ('Unlimited' placeholder).",
+  "srcA": "prioritypass.com – letto 18/11/2026\ndragonpass.com – letto 18/11/2026\nitaliavola.com – letto 18/11/2026\ntheflightclub.it – letto 18/11/2026",
+  "srcP": "loungepair.com – letto 18/11/2026",
+  "srcS": "prioritypass.com – letto 18/11/2026\ndragonpass.com – letto 18/11/2026\nitaliavola.com – letto 18/11/2026\nloungepair.com – letto 18/11/2026",
+  "checked": "2026-11-18",
+  "aliases": [
+   "Prima Vista Lounge PMO",
+   "Prima Vista Lounges Palermo"
+  ],
+  "operator": "Prima Vista Lounges (Aviapartner Handling)",
+  "status": "aperta",
+  "contacts": {
+   "email": null,
+   "phone": null
+  }
+ },
+ {
+  "id": "pmo-2",
+  "ap": "PMO",
+  "name": "Sala VIP GESAP",
+  "ta": "Terminal unico · 1° piano · landside · vicino al check-in area A",
+  "area": "na",
+  "side": "landside",
+  "pos": "1° piano del terminal, vicino all'area check-in A (sito aeroporto)",
+  "hours": "05:30-21:30 tutto l'anno (sito aeroporto, pagina non aggiornata)",
+  "acc": {
+   "pp": "Da verificare",
+   "lk": "Da verificare",
+   "dp": "Da verificare",
+   "amex": "Da verificare",
+   "diners": "Da verificare"
+  },
+  "price": "n.d.",
+  "stay": "n.d.",
+  "food": "Self-service gratuito (sito aeroporto)",
+  "bar": "n.d.",
+  "beer": "n.d.",
+  "shower": "n.d.",
+  "other": "Accoglienza preferenziale e check-in prioritario, TV satellitare, quotidiani italiani, info voli; Wi-Fi gratuito (Carta dei Servizi 2025)",
+  "note": "La pagina aeroportodipalermo.it/en/services-at-the-airport/vip-lounge descrive ancora questa sala (accesso per passeggeri di compagnie convenzionate e voucher, es. Priority Pass), ma theflightclub.it (06/2025) riporta che lo scalo è rimasto ~6 anni senza lounge e prioritypass.com elenca oggi solo la Prima Vista Lounge. Considerata chiusa/sostituita dalla Prima Vista Lounge; status da confermare con GESAP.",
+  "srcA": "aeroportodipalermo.it – letto 18/11/2026\nprioritypass.com – letto 18/11/2026\ntheflightclub.it – letto 18/11/2026",
+  "srcP": "n.d.",
+  "srcS": "aeroportodipalermo.it – letto 18/11/2026\nassaeroporti.com – letto 18/11/2026",
+  "checked": "2026-11-18",
+  "aliases": [
+   "Gesap VIP Lounge",
+   "VIP Lounge Palermo",
+   "Sala Vip GESAP"
+  ],
+  "operator": "GESAP (aeroporto)",
+  "status": "chiusa",
+  "contacts": {
+   "email": null,
+   "phone": null
+  }
+ },
+ {
+  "id": "blq-1",
+  "ap": "BLQ",
+  "name": "Prima Vista Lounge (ex Marconi Business Lounge)",
+  "ta": "Terminal unico · 1° piano partenze · landside · prima dei controlli di sicurezza",
+  "area": "na",
+  "side": "landside",
+  "pos": "Primo piano dell'aerostazione, prima dei controlli di sicurezza, vicino all'uscita del Marconi Express; dall'ingresso della lounge si accede al fast track dedicato verso l'area imbarchi",
+  "hours": "05:00-21:00 tutti i giorni (sito aeroporto e PP)",
+  "acc": {
+   "pp": "Sì",
+   "lk": "Da verificare",
+   "dp": "Sì",
+   "amex": "Sì",
+   "diners": "Da verificare"
+  },
+  "price": "€40 · 3 h",
+  "stay": "Massimo 3 ore al giorno; ingresso consentito fino a 3 ore prima della partenza prevista",
+  "food": "Buffet e caffetteria inclusi (sito aeroporto); cibo caldo e freddo, opzioni veg (rivenditore)",
+  "bar": "Bevande da bar incluse; alcolici di marca standard e premium a pagamento per i soci PP (prioritypass.com)",
+  "beer": "n.d.",
+  "shower": "Sì, zona doccia (sito aeroporto); a pagamento e soggetta a disponibilità secondo Amex/rivenditore",
+  "other": "Fast track dedicato con accesso diretto all'area imbarchi; Wi-Fi gratuito; giornali e riviste; postazioni di lavoro; meeting room (a pagamento per PP); monitor voli; zona quiet. Bagaglio da stiva non ammesso in sala (consegnarlo prima). Bambini fino a 2 anni gratis. Acquisto online dal sito aeroporto con registrazione MyBLQ. Il gestore collega alla lounge anche la BLQ Fitness Lounge (palestra al 2° piano, €15 a ingresso, su prenotazione via email, chiusa sab/dom/festivi), che non è una lounge.",
+  "note": "Lounge chiusa per lavori a metà 2025 e riaperta a settembre 2025, inaugurata ufficialmente il 05/11/2025 come Prima Vista Lounges by Aviapartner (italiavola.com). La vecchia pagina PP 'BLQ1 Marconi Business Lounge' è vuota; la pagina attuale è 'BLQ2 Prima Vista Lounge'. Il sito dell'aeroporto cita esplicitamente Priority Pass e Dragon Pass tra i circuiti ammessi; LoungeKey non citato e loungekey.com non letto. Pagina Amex Platinum UK la elenca direttamente ma non specifica se l'accesso passa dalla PP inclusa. Prezzo rivenditore loungepair.com: da 32 EUR per 3 h (18/11/2026), non è il prezzo ufficiale.",
+  "srcA": "bologna-airport.it – letto 18/11/2026\nprioritypass.com – letto 18/11/2026\namericanexpress.com – letto 18/11/2026",
+  "srcP": "bologna-airport.it – letto 18/11/2026",
+  "srcS": "bologna-airport.it – letto 18/11/2026\nprioritypass.com – letto 18/11/2026\namericanexpress.com – letto 18/11/2026\nloungepair.com – letto 18/11/2026",
+  "checked": "2026-11-18",
+  "aliases": [
+   "Marconi Business Lounge",
+   "MBL",
+   "Business Lounge",
+   "Prima Vista Lounges by Aviapartner",
+   "BLQ2 Prima Vista Lounge"
+  ],
+  "operator": "Aviapartner (Prima Vista Lounges)",
+  "status": "aperta",
+  "contacts": {
+   "email": "blq.lounge@aviapartner.aero",
+   "phone": "051-6479241"
+  }
+ },
+ {
+  "id": "lhr-1",
+  "ap": "LHR",
+  "name": "Plaza Premium Lounge (Partenze, Terminal 2)",
+  "ta": "Terminal 2 · partenze · airside · dopo controlli di sicurezza e passaporti",
+  "area": "extra",
+  "side": "airside",
+  "pos": "Livello 4 delle partenze T2, accanto all'area trasferimento tra terminal (Terminal Transfer)",
+  "hours": "05:00-21:30 tutti i giorni (Plaza Premium e PP); DragonPass indica 05:00-21:00",
+  "acc": {
+   "pp": "Sì",
+   "lk": "Da verificare",
+   "dp": "Sì",
+   "amex": "Via Priority Pass",
+   "diners": "Da verificare"
+  },
+  "price": "n.d.",
+  "stay": "2 ore con Priority Pass",
+  "food": "Selezione di piatti freschi, anche vegetariani; tè, caffè e analcolici (sito Plaza Premium)",
+  "bar": "Bar presente; alcolici standard inclusi con PP, marche premium a pagamento",
+  "beer": "alla spina (sito Plaza Premium: 'Draught beer')",
+  "shower": "Sì, docce e shower room – possono essere a pagamento (importo n.d.)",
+  "other": "Suite riposo private (a pagamento con PP), postazioni di ricarica, Wi-Fi, TV, schermi voli, aria condizionata",
+  "note": "Solo voli internazionali e in transito (PP). Nei periodi di punta l'accesso PP può essere limitato per mancanza di spazio. Sito Plaza Premium non mostra prezzo in pagina.",
+  "srcA": "prioritypass.com – letto 18/11/2026\nlounges.dragonpassuk.com – letto 18/11/2026\nplazapremiumlounge.com – letto 18/11/2026",
+  "srcP": "plazapremiumlounge.com – letto 18/11/2026",
+  "srcS": "plazapremiumlounge.com – letto 18/11/2026\nprioritypass.com – letto 18/11/2026",
+  "checked": "2026-11-18",
+  "aliases": [
+   "Plaza Premium Lounge Heathrow T2",
+   "Plaza Premium Lounge (International Departures, Terminal 2)"
+  ],
+  "operator": "Plaza Premium Group",
+  "status": "aperta",
+  "contacts": {
+   "email": null,
+   "phone": null
+  }
+ },
+ {
+  "id": "lhr-2",
+  "ap": "LHR",
+  "name": "No1 Lounge Heathrow Terminal 2",
+  "ta": "Terminal 2 · partenze · airside · dopo controlli di sicurezza e passaporti",
+  "area": "extra",
+  "side": "airside",
+  "pos": "Dopo il Duty Free, ascensori accanto al gate A18 verso il livello inferiore (ground level)",
+  "hours": "05:00-21:00 tutti i giorni",
+  "acc": {
+   "pp": "Sì",
+   "lk": "Sì",
+   "dp": "Sì",
+   "amex": "Via Priority Pass",
+   "diners": "Da verificare"
+  },
+  "price": "£42 (sito No1 Lounges, prezzo 'da')",
+  "stay": "Ingresso da 3 ore prima del volo; ore extra acquistabili in anticipo; 3 ore con PP",
+  "food": "Buffet/piatti stagionali e snack inclusi",
+  "bar": "Bar servito: birre, vini, spumanti inglesi, spritz, spirits inclusi; champagne a pagamento",
+  "beer": "Sì, birre premium incluse (spina n.d.)",
+  "shower": "n.d. (non menzionate)",
+  "other": "Wi-Fi illimitato, schermi voli, sale TV, sala riunioni, postazioni di lavoro, capienza controllata; dress code smart casual",
+  "note": "Con PP accesso limitato quando lo spazio è esaurito; prenotazione con PP/LK/DP possibile da £6 a persona (sito No1 Lounges). Non compare nell'elenco DragonPass UK letto, ma il sito No1 dichiara DragonPass accettato. Presente anche nell'elenco Amex Platinum (USA).",
+  "srcA": "prioritypass.com – letto 18/11/2026\nno1lounges.com – letto 18/11/2026\namericanexpress.com – letto 18/11/2026",
+  "srcP": "no1lounges.com – letto 18/11/2026",
+  "srcS": "no1lounges.com – letto 18/11/2026\nprioritypass.com – letto 18/11/2026",
+  "checked": "2026-11-18",
+  "aliases": [
+   "No.1 Lounge Heathrow T2",
+   "No1 Lounges Heathrow Terminal 2"
+  ],
+  "operator": "No1 Lounges (Airport Dimensions / Swissport)",
+  "status": "aperta",
+  "contacts": {
+   "email": "Enquiries@No1Lounges.com",
+   "phone": null
+  }
+ },
+ {
+  "id": "lhr-3",
+  "ap": "LHR",
+  "name": "No1 Lounge Heathrow Terminal 3",
+  "ta": "Terminal 3 · partenze · airside · dopo controlli di sicurezza e passaporti",
+  "area": "extra",
+  "side": "airside",
+  "pos": "Seguire indicazioni Gates 1-42 e 'All Airline Lounges', tenere la sinistra, poi 'Lounge F' / No1 Lounge",
+  "hours": "05:00-22:00 tutti i giorni",
+  "acc": {
+   "pp": "Sì",
+   "lk": "Sì",
+   "dp": "Sì",
+   "amex": "Via Priority Pass",
+   "diners": "Da verificare"
+  },
+  "price": "£40 (sito No1 Lounges, prezzo 'da')",
+  "stay": "Ingresso da 3 ore prima del volo; ore extra acquistabili in anticipo",
+  "food": "Piatti caldi e freddi preparati al momento con servizio al tavolo, menu giornaliero, opzioni veg/vegane",
+  "bar": "Bar servito: vini, birre e spirits premium inclusi",
+  "beer": "Sì, birre premium incluse (spina n.d.)",
+  "shower": "No (il sito No1 dichiara che nessuna lounge No1 ha docce al momento)",
+  "other": "Wi-Fi, schermi voli, sala TV, sala riunioni, scrivanie con prese, vista pista, accesso disabili; dress code smart casual",
+  "note": "Lounge DreamFolks accettata (sito No1). Compagnie partner: Virgin Atlantic, Air Peace, IndiGo ecc. Nessun annuncio voli in lounge. Pagina PP della lounge non leggibile (permesso negato), presente nell'elenco PP Heathrow.",
+  "srcA": "prioritypass.com – letto 18/11/2026\nno1lounges.com – letto 18/11/2026\nlounges.dragonpassuk.com – letto 18/11/2026",
+  "srcP": "no1lounges.com – letto 18/11/2026",
+  "srcS": "no1lounges.com – letto 18/11/2026\nexecutivelounges.com – letto 18/11/2026",
+  "checked": "2026-11-18",
+  "aliases": [
+   "No1 Heathrow",
+   "No1 Lounge at Heathrow T3",
+   "Lounge F"
+  ],
+  "operator": "No1 Lounges (Airport Dimensions / Swissport)",
+  "status": "aperta",
+  "contacts": {
+   "email": "Enquiries@No1Lounges.com",
+   "phone": null
+  }
+ },
+ {
+  "id": "lhr-4",
+  "ap": "LHR",
+  "name": "My Lounge Heathrow Terminal 3 (ex Club Aspire T3)",
+  "ta": "Terminal 3 · partenze · airside · dopo controlli di sicurezza e passaporti",
+  "area": "extra",
+  "side": "airside",
+  "pos": "Indicazioni Gates 1-42 'All Airlines lounges', a sinistra verso Gates 1-22 'Airline Lounges B-J', poi verso gate 9: 'Lounge D' sulla destra",
+  "hours": "05:00-22:00 tutti i giorni (25/12/2026 chiusura 20:00)",
+  "acc": {
+   "pp": "Sì",
+   "lk": "Sì",
+   "dp": "Sì",
+   "amex": "Via Priority Pass",
+   "diners": "Da verificare"
+  },
+  "price": "£38 (sito No1 Lounges, prezzo 'da')",
+  "stay": "Ingresso da 3 ore prima del volo; ore extra acquistabili; 3 ore con PP",
+  "food": "Snack 'grazing' e piatti caldi inclusi",
+  "bar": "Bar servito incluso; vino, birra e cocktail self-service; spumante/champagne a pagamento",
+  "beer": "Sì, inclusa (self-service; spina n.d.)",
+  "shower": "No",
+  "other": "Wi-Fi illimitato, vista pista, prese di ricarica, schermi voli, accesso disabili, spazio famiglie; dress code rilassato",
+  "note": "DragonPass accettato solo con prenotazione anticipata (sito No1). Bambini 2-11 con biglietto bambino. Ex Club Aspire T3 (Swissport), rinominata My Lounge nel 2026.",
+  "srcA": "prioritypass.com – letto 18/11/2026\nno1lounges.com – letto 18/11/2026",
+  "srcP": "no1lounges.com – letto 18/11/2026",
+  "srcS": "no1lounges.com – letto 18/11/2026\nprioritypass.com – letto 18/11/2026",
+  "checked": "2026-11-18",
+  "aliases": [
+   "My Lounge",
+   "Club Aspire Lounge Heathrow T3",
+   "Lounge D"
+  ],
+  "operator": "No1 Lounges (Airport Dimensions / Swissport)",
+  "status": "aperta",
+  "contacts": {
+   "email": "Enquiries@No1Lounges.com",
+   "phone": "+44 203 283 8449"
+  }
+ },
+ {
+  "id": "lhr-5",
+  "ap": "LHR",
+  "name": "Clubrooms Heathrow Terminal 3",
+  "ta": "Terminal 3 · partenze · airside · dopo controlli di sicurezza e passaporti",
+  "area": "extra",
+  "side": "airside",
+  "pos": "Passerella a sinistra del World Duty Free, indicazioni 'Lounge F' e Gates 13-22, un piano sopra (ascensore o scale)",
+  "hours": "05:00-21:00 tutti i giorni",
+  "acc": {
+   "pp": "Sì",
+   "lk": "Sì",
+   "dp": "Sì",
+   "amex": "Via Priority Pass",
+   "diners": "Da verificare"
+  },
+  "price": "£48 (sito No1 Lounges, prezzo 'da')",
+  "stay": "Ingresso da 3 ore prima del volo (PP)",
+  "food": "Menu all-day di piatti preparati al momento con servizio al tavolo e cameriere dedicato",
+  "bar": "Vini, spirits, spumante, cocktail e analcolici premium inclusi; champagne a pagamento",
+  "beer": "Sì, birre premium e guest beer incluse (spina n.d.)",
+  "shower": "n.d. (non menzionate)",
+  "other": "Wi-Fi, schermi voli, TV, vista pista, capienza controllata, accesso disabili; solo over 12; dress code smart casual",
+  "note": "Con PP/LK/DP si entra pagando un supplemento 'da £15 a persona' direttamente in lounge (sito No1; PP: 'Additional Fee Applies', importo non indicato da PP). Bambini sotto i 12 anni non ammessi.",
+  "srcA": "prioritypass.com – letto 18/11/2026\nno1lounges.com – letto 18/11/2026",
+  "srcP": "no1lounges.com – letto 18/11/2026",
+  "srcS": "no1lounges.com – letto 18/11/2026\nprioritypass.com – letto 18/11/2026",
+  "checked": "2026-11-18",
+  "aliases": [
+   "Clubrooms Heathrow - Additional Fee Applies",
+   "Clubrooms at Heathrow T3"
+  ],
+  "operator": "No1 Lounges (Airport Dimensions / Swissport)",
+  "status": "aperta",
+  "contacts": {
+   "email": "Enquiries@No1Lounges.com",
+   "phone": null
+  }
+ },
+ {
+  "id": "lhr-6",
+  "ap": "LHR",
+  "name": "Plaza Premium Lounge (Arrivi, Terminal 3)",
+  "ta": "Terminal 3 · arrivi · landside · dopo il controllo passaporti in arrivo",
+  "area": "na",
+  "side": "landside",
+  "pos": "Piano terra degli arrivi T3, vicino alle fermate taxi, accanto all'Aerotel",
+  "hours": "06:00-14:00 tutti i giorni",
+  "acc": {
+   "pp": "Sì",
+   "lk": "Da verificare",
+   "dp": "Da verificare",
+   "amex": "Via Priority Pass",
+   "diners": "Da verificare"
+  },
+  "price": "n.d.",
+  "stay": "2 ore con Priority Pass",
+  "food": "Rinfreschi leggeri, colazione e pranzo; buffet freddo e bevande calde (PP)",
+  "bar": "n.d. (nessun bar indicato)",
+  "beer": "n.d.",
+  "shower": "Sì",
+  "other": "Bagno accessibile, postazione di ricarica, workstation, TV, Wi-Fi",
+  "note": "Lounge arrivi: con PP serve carta d'imbarco di viaggio nello stesso giorno. Offerta Plaza Premium 'prenota 2 ore, 3 ore incluse' fino al 31/01/2026; 20% sconto Smart Traveller. Prezzo non in pagina.",
+  "srcA": "prioritypass.com – letto 18/11/2026\nplazapremiumlounge.com – letto 18/11/2026",
+  "srcP": "plazapremiumlounge.com – letto 18/11/2026",
+  "srcS": "plazapremiumlounge.com – letto 18/11/2026\nprioritypass.com – letto 18/11/2026",
+  "checked": "2026-11-18",
+  "aliases": [
+   "Plaza Premium Arrivals Lounge Terminal 3",
+   "Plaza Premium Lounge (International Arrivals, Terminal 3)"
+  ],
+  "operator": "Plaza Premium Group",
+  "status": "aperta",
+  "contacts": {
+   "email": "uk@plaza-network.com",
+   "phone": "+44 208 745 0667"
+  }
+ },
+ {
+  "id": "lhr-7",
+  "ap": "LHR",
+  "name": "Plaza Premium Lounge (Partenze, Terminal 4)",
+  "ta": "Terminal 4 · partenze · airside · dopo controlli di sicurezza e passaporti",
+  "area": "extra",
+  "side": "airside",
+  "pos": "Livello 2 delle partenze T4, di fronte ai gate 10a/10b (PP: di fronte ai gate A10 e B10)",
+  "hours": "05:00-22:00 tutti i giorni (Plaza Premium e PP); DragonPass indica 05:30-22:00",
+  "acc": {
+   "pp": "Sì",
+   "lk": "Da verificare",
+   "dp": "Sì",
+   "amex": "Via Priority Pass",
+   "diners": "Da verificare"
+  },
+  "price": "n.d.",
+  "stay": "2 ore con Priority Pass",
+  "food": "Buffet con piatti caldi e freddi preparati al momento, opzioni vegetariane",
+  "bar": "Bar presente; alcolici standard inclusi con PP, marche premium a pagamento",
+  "beer": "n.d.",
+  "shower": "Sì, possono essere a pagamento (importo n.d.)",
+  "other": "Sale meditazione, zona quiet, postazioni di ricarica, Wi-Fi, TV, accesso disabili",
+  "note": "Solo voli internazionali e in transito (PP); accesso PP limitabile nei picchi stagionali. Offerta 'prenota 2 ore, 3 ore incluse' fino al 28/02/2026. Prezzo non in pagina.",
+  "srcA": "prioritypass.com – letto 18/11/2026\nlounges.dragonpassuk.com – letto 18/11/2026\nplazapremiumlounge.com – letto 18/11/2026",
+  "srcP": "plazapremiumlounge.com – letto 18/11/2026",
+  "srcS": "plazapremiumlounge.com – letto 18/11/2026\nprioritypass.com – letto 18/11/2026",
+  "checked": "2026-11-18",
+  "aliases": [
+   "Plaza Premium Lounge Heathrow T4",
+   "Plaza Premium Lounge (International Departures, Terminal 4)"
+  ],
+  "operator": "Plaza Premium Group",
+  "status": "aperta",
+  "contacts": {
+   "email": "uk@plaza-network.com",
+   "phone": "+44 208 745 0765"
+  }
+ },
+ {
+  "id": "lhr-8",
+  "ap": "LHR",
+  "name": "Blush Lounge by Plaza Premium Group (Terminal 4)",
+  "ta": "Terminal 4 · partenze · airside · dopo controlli di sicurezza e passaporti",
+  "area": "extra",
+  "side": "airside",
+  "pos": "Livello 2, vicino al gate 2",
+  "hours": "PP: lun-gio 07:00-10:30; ven 07:00-22:00; sab 07:00-17:30; dom 07:00-10:30 e 15:30-17:30. DragonPass indica 07:00-22:30",
+  "acc": {
+   "pp": "Sì",
+   "lk": "Da verificare",
+   "dp": "Sì",
+   "amex": "Via Priority Pass",
+   "diners": "Da verificare"
+  },
+  "price": "n.d.",
+  "stay": "2 ore con Priority Pass",
+  "food": "Menu à la carte a pagamento (PP); pasto kosher à la carte a pagamento",
+  "bar": "Alcolici standard inclusi con PP",
+  "beer": "n.d.",
+  "shower": "n.d. (non menzionate)",
+  "other": "Aria condizionata, accesso disabili, pagamento con carta",
+  "note": "Orari PP molto ridotti nei giorni feriali; accesso PP limitabile nei picchi. Pagina Plaza Premium della lounge non letta.",
+  "srcA": "prioritypass.com – letto 18/11/2026\nlounges.dragonpassuk.com – letto 18/11/2026",
+  "srcP": "prioritypass.com – letto 18/11/2026",
+  "srcS": "prioritypass.com – letto 18/11/2026",
+  "checked": "2026-11-18",
+  "aliases": [
+   "Blush Lounge Heathrow T4"
+  ],
+  "operator": "Plaza Premium Group",
+  "status": "aperta",
+  "contacts": {
+   "email": null,
+   "phone": null
+  }
+ },
+ {
+  "id": "lhr-9",
+  "ap": "LHR",
+  "name": "Plaza Premium Lounge (Partenze, Terminal 5)",
+  "ta": "Terminal 5 · partenze · airside · dopo controlli di sicurezza e passaporti",
+  "area": "extra",
+  "side": "airside",
+  "pos": "Accanto al gate A7 (T5A)",
+  "hours": "05:30-21:30 tutti i giorni (PP); DragonPass indica 04:45-21:00",
+  "acc": {
+   "pp": "Sì",
+   "lk": "Da verificare",
+   "dp": "Sì",
+   "amex": "Via Priority Pass",
+   "diners": "Da verificare"
+  },
+  "price": "n.d.",
+  "stay": "2 ore con Priority Pass",
+  "food": "n.d. (non dettagliato nella pagina PP letta)",
+  "bar": "Alcolici standard inclusi con PP, marche premium a pagamento",
+  "beer": "n.d.",
+  "shower": "n.d.",
+  "other": "Aria condizionata, accesso disabili, pagamento con carta",
+  "note": "Pagina plazapremiumlounge.com del T5 non leggibile (errore sito / permesso negato): prezzo e servizi da completare.",
+  "srcA": "prioritypass.com – letto 18/11/2026\nlounges.dragonpassuk.com – letto 18/11/2026",
+  "srcP": "prioritypass.com – letto 18/11/2026",
+  "srcS": "prioritypass.com – letto 18/11/2026",
+  "checked": "2026-11-18",
+  "aliases": [
+   "Plaza Premium Lounge Heathrow T5",
+   "Plaza Premium Lounge (Terminal 5 Departures)"
+  ],
+  "operator": "Plaza Premium Group",
+  "status": "aperta",
+  "contacts": {
+   "email": null,
+   "phone": null
+  }
+ },
+ {
+  "id": "lhr-10",
+  "ap": "LHR",
+  "name": "Club Aspire Lounge Terminal 5 (in ristrutturazione → No1 Lounge T5)",
+  "ta": "Terminal 5A · partenze · airside · dopo controlli di sicurezza e passaporti",
+  "area": "extra",
+  "side": "airside",
+  "pos": "T5A, indicazioni Gate A1-23 poi 'Club Aspire Lounge', accanto al gate 18 sulla sinistra",
+  "hours": "n.d. (prima della chiusura: 05:00-21:00 tutti i giorni)",
+  "acc": {
+   "pp": "Sospeso",
+   "lk": "Sospeso",
+   "dp": "Sospeso",
+   "amex": "Da verificare",
+   "diners": "Da verificare"
+  },
+  "price": "n.d.",
+  "stay": "n.d. (prima della chiusura: 3 ore prima del volo)",
+  "food": "Prima della chiusura: menu stagionale incluso, buffet colazione fino alle 11, poi piatti caldi e freddi",
+  "bar": "Prima della chiusura: bar servito incluso con birra, vino e spirits; champagne/prosecco a pagamento",
+  "beer": "Sì (inclusa; spina n.d.)",
+  "shower": "Prima della chiusura: sì, £20 a persona (executivelounges.com / no1lounges.com)",
+  "other": "Wi-Fi, scrivanie con prese UK/US/USB, PressReader, vista pista, schermi voli",
+  "note": "Chiusa dal 16/11/2026 per ristrutturazione; riaprirà come No1 Lounge Heathrow T5, prenotabile dalla primavera 2027 (sito No1 Lounges, 'coming soon'; InsideFlyer 28/08/2026). Prima della chiusura: prezzo 'da' 40 GBP, PP e LoungeKey accettati, DragonPass solo con prenotazione. Non compare più nell'elenco PP Heathrow letto il 18/11/2026.",
+  "srcA": "no1lounges.com – letto 18/11/2026\nexecutivelounges.com – letto 18/11/2026\nprioritypass.com – letto 18/11/2026",
+  "srcP": "no1lounges.com – letto 18/11/2026",
+  "srcS": "executivelounges.com – letto 18/11/2026\nno1lounges.com – letto 18/11/2026",
+  "checked": "2026-11-18",
+  "aliases": [
+   "Club Aspire at Heathrow T5",
+   "Aspire Lounge Heathrow T5",
+   "No1 Lounge Heathrow Terminal 5"
+  ],
+  "operator": "No1 Lounges / Aspire (Airport Dimensions / Swissport)",
+  "status": "chiusa temporaneamente",
+  "contacts": {
+   "email": "Enquiries@No1Lounges.com",
+   "phone": null
+  }
+ },
+ {
+  "id": "dub-1",
+  "ap": "DUB",
+  "name": "The Phoenix Lounge",
+  "ta": "T1 · livello 2 · airside · extra (Irlanda fuori Schengen) · non raggiungibile dopo US Preclearance",
+  "area": "extra",
+  "side": "airside",
+  "pos": "T1, livello 2, tra le corsie dei controlli di sicurezza (ascensore o scale mobili); secondo ingresso subito dopo il Fast Track T1 al mezzanino. 1 min da T1, 3 min da T2",
+  "hours": "04:00-21:00 tutti i giorni (dublinairport.com)",
+  "acc": {
+   "pp": "Da verificare",
+   "lk": "Da verificare",
+   "dp": "Da verificare",
+   "amex": "Da verificare",
+   "diners": "Da verificare"
+  },
+  "price": "€35 online / €45 alla reception (prezzi 'da') · 2 h",
+  "stay": "Massimo 2 ore",
+  "food": "Buffet caldo (colazione irlandese, curry, carni, vegetariano) e freddo (panini, wrap, pancake, salumi, insalate); opzioni gluten-free e vegane",
+  "bar": "Bar presidiato: birre, vini, distillati, analcolici; 2 bevande alcoliche incluse a persona; cocktail premium a pagamento",
+  "beer": "n.d.",
+  "shower": "Sì, inclusa opzione accessibile PRM",
+  "other": "Area business dedicata; Wi-Fi; prese di ricarica; stampa digitale gratuita; vista sul terminal; accesso gratuito per passeggeri idonei di Aegean, Air Baltic, Air Canada, Air France, Finnair, KLM, Lufthansa, Swiss, TAP, Turkish, WestJet ecc. (pagina partner)",
+  "note": "Nuovo nome della ex T1 Lounge / DAA Lounge T1 (la URL ufficiale /lounges/t1 porta ora alla Phoenix Lounge; la pagina dice 'stessa posizione di prima, ora con due ingressi'). L'elenco Priority Pass di Dublino letto il 18/11/2026 mostra solo Liffey Lounge e Garden Terrace: non risulta nel network PP. Una FAQ ufficiale (versione datata) dice che l'accesso con PP/DragonPass/LoungeKey è 'soggetto a disponibilità' senza specificare la lounge. Prenotazione online fino a 2 h prima; modifiche solo 4 h prima. Accesso illimitato con abbonamento The Airport Club.",
+  "srcA": "dublinairport.com – letto 18/11/2026\nprioritypass.com – letto 18/11/2026",
+  "srcP": "dublinairport.com – letto 18/11/2026",
+  "srcS": "dublinairport.com – letto 18/11/2026",
+  "checked": "2026-11-18",
+  "aliases": [
+   "T1 Lounge",
+   "DAA Lounge T1",
+   "Dublin Airport Executive Lounge T1"
+  ],
+  "operator": "daa (aeroporto)",
+  "status": "aperta",
+  "contacts": {
+   "email": null,
+   "phone": "+353 1 944 0440"
+  }
+ },
+ {
+  "id": "dub-2",
+  "ap": "DUB",
+  "name": "The Liffey Lounge",
+  "ta": "T2 (corridoio T1-T2) · livello 1 · airside · extra (Irlanda fuori Schengen) · non raggiungibile dopo US Preclearance",
+  "area": "extra",
+  "side": "airside",
+  "pos": "Livello 1 del corridoio che collega T1 e T2, accanto ai gate 400. Da T1: dopo la sicurezza a sinistra lungo il corridoio (~5 min). Da T2: attraversare l'area shopping The Loop, ascensore/scale al livello 1, a sinistra (~3 min)",
+  "hours": "04:00-21:00 tutti i giorni (dublinairport.com e PP); chiusa il 25/12 (PP); DragonPass riporta 05:00-19:00",
+  "acc": {
+   "pp": "Sì",
+   "lk": "Da verificare",
+   "dp": "Sì",
+   "amex": "Via Priority Pass",
+   "diners": "Da verificare"
+  },
+  "price": "€37 online / €40 alla reception (prezzi 'da') · 2 h",
+  "stay": "Massimo 2 ore (sito aeroporto); 3 ore con Priority Pass",
+  "food": "Buffet freddo: panini, wrap, insalate, pancake, snack; opzioni gluten-free e vegane",
+  "bar": "Bar self-service: birra, sidro, vino; max 2 bevande alcoliche a persona; nessun cocktail premium",
+  "beer": "n.d.",
+  "shower": "Sì, inclusa opzione accessibile PRM",
+  "other": "Wi-Fi gratuito; postazioni di lavoro tranquille con prese; stampa digitale; TV; vista pista; accesso gratuito per passeggeri idonei British Airways/Cityflyer e TUI (pagina partner)",
+  "note": "Aperta l'8/02/2025 in sostituzione della T2 Lounge (comunicato daa). Sul sito ufficiale accesso con Priority Pass/DragonPass 'soggetto a disponibilità'; PP: nelle ore di punta 11:00-15:00 l'ingresso può essere limitato; serve carta d'imbarco same-day. La pagina Amex Platinum (India) la elenca ma con condizioni Priority Pass, quindi via PP. Bambini sotto 2 anni gratis (DragonPass).",
+  "srcA": "dublinairport.com – letto 18/11/2026\nprioritypass.com – letto 18/11/2026\ndragonpass.com – letto 18/11/2026\namericanexpress.com – letto 18/11/2026",
+  "srcP": "dublinairport.com – letto 18/11/2026",
+  "srcS": "dublinairport.com – letto 18/11/2026\nprioritypass.com – letto 18/11/2026\ndragonpass.com – letto 18/11/2026",
+  "checked": "2026-11-18",
+  "aliases": [
+   "Liffey Lounge",
+   "T2 Lounge",
+   "Dublin Airport Executive Lounge T2",
+   "The Lounge T2"
+  ],
+  "operator": "daa (aeroporto)",
+  "status": "aperta",
+  "contacts": {
+   "email": null,
+   "phone": "+353 1 944 0440"
+  }
+ },
+ {
+  "id": "dub-3",
+  "ap": "DUB",
+  "name": "The Martello Lounge",
+  "ta": "T2 (corridoio T1-T2) · livello 1 · airside · extra (Irlanda fuori Schengen) · non raggiungibile dopo US Preclearance",
+  "area": "extra",
+  "side": "airside",
+  "pos": "Dopo i controlli di sicurezza, nel corridoio che collega T1 e T2. Da T1: a sinistra lungo il corridoio (~5 min). Da T2: attraversare l'area shopping, ascensore/scale al livello 1, a sinistra (~3 min)",
+  "hours": "04:00-20:30 tutti i giorni, soggetti a variazioni stagionali (dublinairport.com)",
+  "acc": {
+   "pp": "Da verificare",
+   "lk": "Da verificare",
+   "dp": "Da verificare",
+   "amex": "Da verificare",
+   "diners": "Da verificare"
+  },
+  "price": "€39 online / €55 alla reception (prezzi 'da') · 2 h",
+  "stay": "Massimo 2 ore",
+  "food": "Colazione calda e pranzo caldo; buffet freddo e snack leggeri; opzioni gluten-free e vegane",
+  "bar": "Bar presidiato: birre, vini, distillati, analcolici; 2 bevande alcoliche a persona; cocktail premium a pagamento; caffè da barista",
+  "beer": "n.d.",
+  "shower": "Sì, inclusa opzione accessibile PRM",
+  "other": "Cabine business silenziose; sala multireligiosa; prese di ricarica; stampa digitale; vista pista; lounge premium usata da Emirates, Etihad, Qatar, EgyptAir, El Al per First/Business (pagina partner)",
+  "note": "Ex East Lounge, rinominata Martello Lounge (comunicato daa 02/2025; la URL ufficiale /lounges/the-east-lounge porta ora alla Martello). Non risulta nell'elenco Priority Pass di Dublino letto il 18/11/2026. Prenotazione online; modifiche solo 4 h prima; accesso illimitato con The Airport Club.",
+  "srcA": "dublinairport.com – letto 18/11/2026\nprioritypass.com – letto 18/11/2026",
+  "srcP": "dublinairport.com – letto 18/11/2026",
+  "srcS": "dublinairport.com – letto 18/11/2026",
+  "checked": "2026-11-18",
+  "aliases": [
+   "East Lounge",
+   "The East Lounge"
+  ],
+  "operator": "daa (aeroporto)",
+  "status": "aperta",
+  "contacts": {
+   "email": null,
+   "phone": "+353 1 944 0440"
+  }
+ },
+ {
+  "id": "dub-4",
+  "ap": "DUB",
+  "name": "The 51st & Green Lounge",
+  "ta": "T2 · area US Preclearance · airside · extra (solo voli verso gli USA, dopo i controlli CBP)",
+  "area": "extra",
+  "side": "airside",
+  "pos": "T2, dopo il controllo US Preclearance, in fondo al corridoio dei gate per gli Stati Uniti",
+  "hours": "07:15-17:00 tutti i giorni (dublinairport.com)",
+  "acc": {
+   "pp": "Da verificare",
+   "lk": "Da verificare",
+   "dp": "Da verificare",
+   "amex": "Da verificare",
+   "diners": "Da verificare"
+  },
+  "price": "€45 online / €55 alla reception (prezzi 'da') · 2 h",
+  "stay": "Massimo 2 ore",
+  "food": "Colazione calda (full Irish) e pranzo caldo a buffet (curry, carni, vegetariano); buffet freddo (frutta, yogurt, formaggi, salumi, panini, insalate); gluten-free e vegano",
+  "bar": "2 bevande alcoliche incluse a persona più analcolici; cocktail a pagamento al bar",
+  "beer": "n.d.",
+  "shower": "Sì, inclusa opzione accessibile PRM",
+  "other": "Wi-Fi gratuito; postazioni di lavoro; prese di ricarica; vista pista; usata da Aer Lingus, American, Delta, United per First/Business (pagina partner)",
+  "note": "Accessibile solo ai passeggeri diretti negli USA già passati dal preclearance. Non risulta nell'elenco Priority Pass di Dublino letto il 18/11/2026. Prenotazione online; modifiche solo 4 h prima.",
+  "srcA": "dublinairport.com – letto 18/11/2026\nprioritypass.com – letto 18/11/2026",
+  "srcP": "dublinairport.com – letto 18/11/2026",
+  "srcS": "dublinairport.com – letto 18/11/2026",
+  "checked": "2026-11-18",
+  "aliases": [
+   "51st&Green",
+   "US Preclearance Lounge"
+  ],
+  "operator": "daa (aeroporto)",
+  "status": "aperta",
+  "contacts": {
+   "email": null,
+   "phone": "+353 1 944 0440"
+  }
+ },
+ {
+  "id": "dub-5",
+  "ap": "DUB",
+  "name": "Garden Terrace (ristorante, voucher Priority Pass)",
+  "ta": "T1 · mezzanino · airside · extra (dopo sicurezza e controllo passaporti)",
+  "area": "extra",
+  "side": "airside",
+  "pos": "T1, area partenze, livello mezzanino, dopo i controlli di sicurezza e passaporti; terrazza esterna",
+  "hours": "n.d.",
+  "acc": {
+   "pp": "Sì",
+   "lk": "Da verificare",
+   "dp": "Da verificare",
+   "amex": "Via Priority Pass",
+   "diners": "Da verificare"
+  },
+  "price": "No",
+  "stay": "n.d.",
+  "food": "Bar, caffetteria e griglia con servizio al tavolo; colazione; con PP sconto di €23 a visita sul conto",
+  "bar": "Bar completo; alcolici standard inclusi nel voucher, premium a pagamento",
+  "beer": "n.d.",
+  "shower": "No",
+  "other": "Non è una lounge ma un ristorante: con Priority Pass ogni visita vale €23 di sconto, differenza a carico del cliente; bambini non ammessi; carta digitale accettata; accessibile PRM",
+  "note": "Serve carta d'imbarco same-day; accesso a discrezione del locale e può essere pieno in certe fasce orarie.",
+  "srcA": "prioritypass.com – letto 18/11/2026",
+  "srcP": "prioritypass.com – letto 18/11/2026",
+  "srcS": "prioritypass.com – letto 18/11/2026",
+  "checked": "2026-11-18",
+  "aliases": [],
+  "operator": "n.d.",
+  "status": "aperta",
+  "contacts": {
+   "email": null,
+   "phone": null
+  }
  }
 ]
