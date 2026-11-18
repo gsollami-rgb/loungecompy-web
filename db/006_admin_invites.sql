@@ -37,6 +37,7 @@ begin
   return true;
 end $$;
 
+drop function if exists public.admin_list_admins();
 create or replace function public.admin_list_admins()
 returns table (id uuid, email text, display_name text, created_at timestamptz, pending boolean)
 language sql stable security definer set search_path = public, auth as $$
@@ -45,6 +46,9 @@ language sql stable security definer set search_path = public, auth as $$
   select null, i.email, null, i.created_at, true from admin_invites i where public.is_admin() and not exists (select 1 from auth.users u where lower(u.email) = i.email)
   order by 5, 4;
 $$;
+
+grant execute on function public.admin_list_admins() to authenticated;
+revoke all on function public.admin_list_admins() from anon, public;
 
 -- i due admin richiesti da Nicola (18/11/2026)
 update public.profiles set role = 'admin' where id = (select id from auth.users where lower(email) = 'sganjalosi@gmail.com');
