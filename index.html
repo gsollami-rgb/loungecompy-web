@@ -705,7 +705,7 @@ function renderAcct(sent){
       <button class="done" onclick="logout()">${t('Esci')}</button>`;
   }else if(sent){
     $('abody').innerHTML=`<div class="aok">${t('Ti abbiamo mandato un codice di 6 cifre.')}</div><div class="s amuted">${t('Controlla la mail di {e} (anche lo spam).',{e:sent})}</div>
-      <input id="aotp" class="ainput acode" inputmode="numeric" autocomplete="one-time-code" maxlength="6" placeholder="000000" oninput="this.value=this.value.replace(/\\D/g,'');if(this.value.length===6)verifyCode()">
+      <input id="aotp" class="ainput acode" inputmode="numeric" autocomplete="one-time-code" maxlength="8" placeholder="000000" oninput="this.value=this.value.replace(/\\D/g,'');clearTimeout(S.otpT);if(this.value.length>=6)S.otpT=setTimeout(verifyCode,700)">
       <button class="done" id="averify" onclick="verifyCode()">${t('Entra')}</button>
       <button class="alink" onclick="renderAcct()">${t('Cambia email o rimanda il codice')}</button>`;
     setTimeout(()=>{const c=$('aotp');if(c)c.focus()},350);
@@ -731,7 +731,7 @@ async function sendCode(){
   catch(e){toast(t('Sei offline? Riprova.'));b.disabled=false;b.textContent=t('Mandami il codice')}
 }
 async function verifyCode(){
-  const c=$('aotp'),code=(c.value||'').trim();if(code.length!==6)return;
+  const c=$('aotp'),code=(c.value||'').trim();if(code.length<6)return;
   const b=$('averify');if(b.disabled)return;b.disabled=true;b.textContent=t('Controllo…');
   try{const r=await fetch(SB.u+'/auth/v1/verify',{method:'POST',headers:{apikey:SB.k,'Content-Type':'application/json'},body:JSON.stringify({type:'email',email:S.pendingEmail,token:code})});
     if(!r.ok){toast(await authErr(r));b.disabled=false;b.textContent=t('Entra');c.value='';c.focus();return}
