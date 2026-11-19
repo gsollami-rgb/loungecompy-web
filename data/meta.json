@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "source": "Database lounge pilota v2 (Excel, 14/11/2026)",
  "next_check": "settimanale",
  "changelog": [
@@ -162,6 +162,10 @@
   {
    "date": "2026-11-18",
    "text": "Aggiunto DUB: 5 lounge"
+  },
+  {
+   "date": "2026-11-19",
+   "text": "CPH Pearl Lounge: il gestore conferma DKK 350/3 h dal 1/12, 05:30–20:00, solo extra-Schengen, PP/LK/DP, docce e Wi-Fi inclusi"
   }
  ]
 }
